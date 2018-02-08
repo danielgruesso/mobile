@@ -1,1 +1,1 @@
-//Android service reference
+//Android service reference for mobile package
